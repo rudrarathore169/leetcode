@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rudrarathore169/leetcode/tree/master/0036-valid-sudoku) |
 | [0542-01-matrix](https://github.com/rudrarathore169/leetcode/tree/master/0542-01-matrix) |
 ## Dynamic Programming
 |  |
@@ -24,5 +25,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/rudrarathore169/leetcode/tree/master/0036-valid-sudoku) |
 | [0542-01-matrix](https://github.com/rudrarathore169/leetcode/tree/master/0542-01-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/rudrarathore169/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
