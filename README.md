@@ -31,4 +31,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/rudrarathore169/leetcode/tree/master/0036-valid-sudoku) |
+## String
+|  |
+| ------- |
+| [3396-valid-word](https://github.com/rudrarathore169/leetcode/tree/master/3396-valid-word) |
 <!---LeetCode Topics End-->
