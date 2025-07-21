@@ -35,4 +35,8 @@
 |  |
 | ------- |
 | [3396-valid-word](https://github.com/rudrarathore169/leetcode/tree/master/3396-valid-word) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/rudrarathore169/leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
