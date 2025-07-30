@@ -18,6 +18,7 @@
 | [0542-01-matrix](https://github.com/rudrarathore169/leetcode/tree/master/0542-01-matrix) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rudrarathore169/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/rudrarathore169/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rudrarathore169/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,8 +55,13 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rudrarathore169/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rudrarathore169/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Enumeration
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rudrarathore169/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rudrarathore169/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
