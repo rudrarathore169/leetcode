@@ -15,6 +15,7 @@
 | [0036-valid-sudoku](https://github.com/rudrarathore169/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/rudrarathore169/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/rudrarathore169/leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/rudrarathore169/leetcode/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/rudrarathore169/leetcode/tree/master/0542-01-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rudrarathore169/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rudrarathore169/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rudrarathore169/leetcode/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/rudrarathore169/leetcode/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/rudrarathore169/leetcode/tree/master/0542-01-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rudrarathore169/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Breadth-First Search
