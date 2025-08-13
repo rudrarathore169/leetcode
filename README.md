@@ -28,6 +28,7 @@
 | [0118-pascals-triangle](https://github.com/rudrarathore169/leetcode/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/rudrarathore169/leetcode/tree/master/0542-01-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rudrarathore169/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/rudrarathore169/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Breadth-First Search
 |  |
 | ------- |
