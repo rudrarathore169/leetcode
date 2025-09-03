@@ -70,4 +70,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rudrarathore169/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/rudrarathore169/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
