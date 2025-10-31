@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rudrarathore169/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rudrarathore169/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rudrarathore169/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/rudrarathore169/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rudrarathore169/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rudrarathore169/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rudrarathore169/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Dynamic Programming
 |  |
@@ -44,6 +46,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/rudrarathore169/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/rudrarathore169/leetcode/tree/master/0041-first-missing-positive) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rudrarathore169/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
