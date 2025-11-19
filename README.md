@@ -19,6 +19,7 @@
 | [0118-pascals-triangle](https://github.com/rudrarathore169/leetcode/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/rudrarathore169/leetcode/tree/master/0542-01-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rudrarathore169/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1580-shuffle-the-array](https://github.com/rudrarathore169/leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/rudrarathore169/leetcode/tree/master/2058-concatenation-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rudrarathore169/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/rudrarathore169/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
