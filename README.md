@@ -37,6 +37,7 @@
 | [0053-maximum-subarray](https://github.com/rudrarathore169/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/rudrarathore169/leetcode/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/rudrarathore169/leetcode/tree/master/0542-01-matrix) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rudrarathore169/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rudrarathore169/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rudrarathore169/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/rudrarathore169/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -61,6 +62,7 @@
 ## String
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rudrarathore169/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [3396-valid-word](https://github.com/rudrarathore169/leetcode/tree/master/3396-valid-word) |
 ## Backtracking
 |  |
