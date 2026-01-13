@@ -31,6 +31,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rudrarathore169/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/rudrarathore169/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rudrarathore169/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3453-separate-squares-i](https://github.com/rudrarathore169/leetcode/tree/master/3453-separate-squares-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rudrarathore169/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rudrarathore169/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Dynamic Programming
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/rudrarathore169/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Binary Search
+|  |
+| ------- |
+| [3453-separate-squares-i](https://github.com/rudrarathore169/leetcode/tree/master/3453-separate-squares-i) |
 <!---LeetCode Topics End-->
