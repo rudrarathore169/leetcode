@@ -19,6 +19,7 @@
 | [0041-first-missing-positive](https://github.com/rudrarathore169/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/rudrarathore169/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/rudrarathore169/leetcode/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/rudrarathore169/leetcode/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/rudrarathore169/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/rudrarathore169/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/rudrarathore169/leetcode/tree/master/0542-01-matrix) |
@@ -124,6 +125,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/rudrarathore169/leetcode/tree/master/0135-candy) |
 | [1975-maximum-matrix-sum](https://github.com/rudrarathore169/leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
