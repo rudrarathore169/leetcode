@@ -69,6 +69,7 @@
 | [0041-first-missing-positive](https://github.com/rudrarathore169/leetcode/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/rudrarathore169/leetcode/tree/master/0242-valid-anagram) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rudrarathore169/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/rudrarathore169/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rudrarathore169/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rudrarathore169/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -76,6 +77,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/rudrarathore169/leetcode/tree/master/0242-valid-anagram) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rudrarathore169/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/rudrarathore169/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3396-valid-word](https://github.com/rudrarathore169/leetcode/tree/master/3396-valid-word) |
 ## Backtracking
 |  |
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rudrarathore169/leetcode/tree/master/0242-valid-anagram) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/rudrarathore169/leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
