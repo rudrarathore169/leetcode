@@ -29,6 +29,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/rudrarathore169/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rudrarathore169/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rudrarathore169/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1331-rank-transform-of-an-array](https://github.com/rudrarathore169/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/rudrarathore169/leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/rudrarathore169/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1580-shuffle-the-array](https://github.com/rudrarathore169/leetcode/tree/master/1580-shuffle-the-array) |
@@ -73,6 +74,7 @@
 | [0242-valid-anagram](https://github.com/rudrarathore169/leetcode/tree/master/0242-valid-anagram) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rudrarathore169/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/rudrarathore169/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/rudrarathore169/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rudrarathore169/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rudrarathore169/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rudrarathore169/leetcode/tree/master/0242-valid-anagram) |
+| [1331-rank-transform-of-an-array](https://github.com/rudrarathore169/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
