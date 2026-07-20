@@ -31,6 +31,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/rudrarathore169/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rudrarathore169/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rudrarathore169/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1260-shift-2d-grid](https://github.com/rudrarathore169/leetcode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rudrarathore169/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1331-rank-transform-of-an-array](https://github.com/rudrarathore169/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/rudrarathore169/leetcode/tree/master/1390-four-divisors) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/rudrarathore169/leetcode/tree/master/0036-valid-sudoku) |
 | [0542-01-matrix](https://github.com/rudrarathore169/leetcode/tree/master/0542-01-matrix) |
+| [1260-shift-2d-grid](https://github.com/rudrarathore169/leetcode/tree/master/1260-shift-2d-grid) |
 | [1975-maximum-matrix-sum](https://github.com/rudrarathore169/leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Hash Table
 |  |
@@ -126,6 +128,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/rudrarathore169/leetcode/tree/master/1260-shift-2d-grid) |
 | [2058-concatenation-of-array](https://github.com/rudrarathore169/leetcode/tree/master/2058-concatenation-of-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rudrarathore169/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rudrarathore169/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
