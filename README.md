@@ -92,6 +92,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rudrarathore169/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/rudrarathore169/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3396-valid-word](https://github.com/rudrarathore169/leetcode/tree/master/3396-valid-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/rudrarathore169/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/rudrarathore169/leetcode/tree/master/1291-sequential-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rudrarathore169/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/rudrarathore169/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Brainteaser
 |  |
 | ------- |
