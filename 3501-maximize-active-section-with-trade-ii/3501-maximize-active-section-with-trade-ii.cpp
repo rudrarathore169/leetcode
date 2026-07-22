@@ -1,110 +1,58 @@
+const int K = 17, MAXN = 1e5;
+int st[K + 1][MAXN];
+
+void build(auto& array) {
+	copy(array.begin(), array.end(), st[0]);
+
+	for(int i = 1; i <= K; i++)
+	    for(int j = 0; j + (1 << i) <= array.size(); j++)
+	        st[i][j] = max(st[i - 1][j], st[i - 1][j + (1 << (i - 1))]);
+}
+
+int query(int L, int R) {
+	int i = bit_width(unsigned(R - L + 1)) - 1;
+	return max(st[i][L], st[i][R - (1 << i) + 1]);
+}
+
 class Solution {
 public:
-    vector<int> a, b, c;
-    int d;
-    vector<vector<int>> e;
-
-    vector<int> maxActiveSectionsAfterTrade(string s, vector<vector<int>>& queries) {
-        int f = 0;
-        for (char ch : s)
-            if (ch == '1')
-                f++;
-
-        vector<int> h, i;
-
-        int n = s.size();
-        int idx = 0;
-        while (idx < n) {
-            if (s[idx] == '0') {
-                int st = idx;
-                while (idx < n && s[idx] == '0')
-                    idx++;
-                h.push_back(st);
-                i.push_back(idx - 1);
-            } else {
-                idx++;
-            }
+    vector<int> maxActiveSectionsAfterTrade(const string& s, vector<vector<int>>& queries) {
+        int n = s.size(), active = 0;
+        vector<pair<int, int>> zero;
+        vector<int> index(n);
+        for(int i = 0; i < n; i++) {
+        	if(s[i] == '0') {
+        		if(i > 0 && s[i - 1] == '0') zero.back().second++;
+        		else zero.push_back({i, 1});
+        	}else {
+        		active++;
+        	}
+        	index[i] = int(zero.size()) - 1;
         }
-
-        a = h;
-        b = i;
-        d = a.size();
-
-        c.clear();
-        for (int k = 0; k < d - 1; k++) {
-            c.push_back((b[k] - a[k] + 1) + (b[k + 1] - a[k + 1] + 1));
+        if(zero.empty()) return vector<int>(queries.size(), active);
+        
+        vector<int> gains(zero.size() - 1);
+        for(int i = zero.size() - 2; i >= 0; i--) {
+        	gains[i] = zero[i].second + zero[i + 1].second;
         }
+        build(gains);
 
-        e.clear();
-        e.push_back(c);
+        vector<int> res(queries.size(), active);
+        for(int i = 0, sz = queries.size(); i < queries.size(); i++) {
+        	int L = queries[i][0], R = queries[i][1];
+        	int start = index[L] + 1, end = index[R] - (s[R] == '0');
+        	int cnt_left = index[L] == -1 ? -1 : (zero[index[L]].second - (L - zero[index[L]].first));
+    		int cnt_right = index[R] == -1 ? -1 : (R - zero[index[R]].first + 1);
 
-        int l = c.size();
-
-        for (int m = 1; m * 2 <= l; m <<= 1) {
-            vector<int>& prev = e.back();
-            vector<int> cur(prev.size() - m);
-            for (int p = 0; p < (int)cur.size(); p++) {
-                cur[p] = max(prev[p], prev[p + m]);
-            }
-            e.push_back(cur);
+        	if(start < end)
+    			res[i] = max(res[i], active + query(start, end - 1));
+    		if(s[L] == '0' && s[R] == '0' && index[L] + 1 == index[R])
+    			res[i] = max(res[i], active + cnt_left + cnt_right);
+            if(s[L] == '0' && index[L] + 1 < index[R] + (s[R] == '1'))
+                res[i] = max(res[i], active + cnt_left + zero[index[L] + 1].second);
+            if(s[R] == '0' && index[L] < index[R] - 1)
+                res[i] = max(res[i], active + cnt_right + zero[index[R] - 1].second);
         }
-
-        vector<int> ans;
-        for (auto &q : queries) {
-            ans.push_back(f + u(q[0], q[1]));
-        }
-
-        return ans;
-    }
-
-    int t(int f, int g) {
-        int h = 31 - __builtin_clz(g - f + 1);
-        return max(e[h][f], e[h][g - (1 << h) + 1]);
-    }
-
-    int v(int f, int g, int h) {
-        return c[f]
-             - max(0, g - a[f])
-             - max(0, b[f + 1] - h);
-    }
-
-    int u(int f, int g) {
-        if (d < 2)
-            return 0;
-
-        int h = w(b, f);
-        int i = x(a, g) - 2;
-
-        if (h > i)
-            return 0;
-
-        return max(
-            max(v(h, f, g), v(i, f, g)),
-            (i - h >= 2 ? t(h + 1, i - 1) : 0)
-        );
-    }
-
-    static int w(const vector<int>& a, int b) {
-        int c = 0, d = a.size();
-        while (c < d) {
-            int e = (c + d) >> 1;
-            if (a[e] < b)
-                c = e + 1;
-            else
-                d = e;
-        }
-        return c;
-    }
-
-    static int x(const vector<int>& a, int b) {
-        int c = 0, d = a.size();
-        while (c < d) {
-            int e = (c + d) >> 1;
-            if (a[e] <= b)
-                c = e + 1;
-            else
-                d = e;
-        }
-        return c;
+        return res;
     }
 };
