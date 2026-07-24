@@ -14,6 +14,7 @@
 | [2235-add-two-integers](https://github.com/rudrarathore169/leetcode/tree/master/2235-add-two-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rudrarathore169/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rudrarathore169/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rudrarathore169/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rudrarathore169/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rudrarathore169/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rudrarathore169/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -48,6 +49,7 @@
 | [3453-separate-squares-i](https://github.com/rudrarathore169/leetcode/tree/master/3453-separate-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rudrarathore169/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rudrarathore169/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rudrarathore169/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rudrarathore169/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rudrarathore169/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rudrarathore169/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -114,12 +116,14 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rudrarathore169/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rudrarathore169/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rudrarathore169/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rudrarathore169/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/rudrarathore169/leetcode/tree/master/1291-sequential-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rudrarathore169/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rudrarathore169/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rudrarathore169/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Brainteaser
 |  |
 | ------- |
