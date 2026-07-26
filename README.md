@@ -8,6 +8,7 @@
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/rudrarathore169/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rudrarathore169/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/rudrarathore169/leetcode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rudrarathore169/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -31,6 +32,7 @@
 | [0238-product-of-array-except-self](https://github.com/rudrarathore169/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/rudrarathore169/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/rudrarathore169/leetcode/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rudrarathore169/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/rudrarathore169/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rudrarathore169/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rudrarathore169/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/rudrarathore169/leetcode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rudrarathore169/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/rudrarathore169/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/rudrarathore169/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rudrarathore169/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
