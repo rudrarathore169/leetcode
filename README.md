@@ -13,6 +13,7 @@
 | [1390-four-divisors](https://github.com/rudrarathore169/leetcode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rudrarathore169/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/rudrarathore169/leetcode/tree/master/2235-add-two-integers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rudrarathore169/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rudrarathore169/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rudrarathore169/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rudrarathore169/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -101,6 +102,7 @@
 | [0242-valid-anagram](https://github.com/rudrarathore169/leetcode/tree/master/0242-valid-anagram) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rudrarathore169/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/rudrarathore169/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rudrarathore169/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3396-valid-word](https://github.com/rudrarathore169/leetcode/tree/master/3396-valid-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rudrarathore169/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rudrarathore169/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -165,6 +167,7 @@
 | ------- |
 | [0135-candy](https://github.com/rudrarathore169/leetcode/tree/master/0135-candy) |
 | [1975-maximum-matrix-sum](https://github.com/rudrarathore169/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rudrarathore169/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Tree
 |  |
 | ------- |
