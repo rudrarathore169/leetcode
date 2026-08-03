@@ -13,6 +13,7 @@
 | [0877-stone-game](https://github.com/rudrarathore169/leetcode/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rudrarathore169/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/rudrarathore169/leetcode/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/rudrarathore169/leetcode/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rudrarathore169/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/rudrarathore169/leetcode/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rudrarathore169/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -46,6 +47,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/rudrarathore169/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1331-rank-transform-of-an-array](https://github.com/rudrarathore169/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/rudrarathore169/leetcode/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/rudrarathore169/leetcode/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/rudrarathore169/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1580-shuffle-the-array](https://github.com/rudrarathore169/leetcode/tree/master/1580-shuffle-the-array) |
 | [1975-maximum-matrix-sum](https://github.com/rudrarathore169/leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -74,6 +76,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/rudrarathore169/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/rudrarathore169/leetcode/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rudrarathore169/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1406-stone-game-iii](https://github.com/rudrarathore169/leetcode/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rudrarathore169/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/rudrarathore169/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/rudrarathore169/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -251,4 +254,13 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/rudrarathore169/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rudrarathore169/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/rudrarathore169/leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/rudrarathore169/leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/rudrarathore169/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
