@@ -85,6 +85,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/rudrarathore169/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/rudrarathore169/leetcode/tree/master/0542-01-matrix) |
+| [3310-remove-methods-from-project](https://github.com/rudrarathore169/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rudrarathore169/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/rudrarathore169/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -263,4 +265,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rudrarathore169/leetcode/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/rudrarathore169/leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
