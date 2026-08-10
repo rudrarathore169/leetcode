@@ -15,6 +15,7 @@
 | [1390-four-divisors](https://github.com/rudrarathore169/leetcode/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/rudrarathore169/leetcode/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rudrarathore169/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1510-stone-game-iv](https://github.com/rudrarathore169/leetcode/tree/master/1510-stone-game-iv) |
 | [2235-add-two-integers](https://github.com/rudrarathore169/leetcode/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rudrarathore169/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rudrarathore169/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -80,6 +81,7 @@
 | [1406-stone-game-iii](https://github.com/rudrarathore169/leetcode/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/rudrarathore169/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/rudrarathore169/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1510-stone-game-iv](https://github.com/rudrarathore169/leetcode/tree/master/1510-stone-game-iv) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/rudrarathore169/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Breadth-First Search
 |  |
@@ -259,16 +261,27 @@
 | [0486-predict-the-winner](https://github.com/rudrarathore169/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rudrarathore169/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rudrarathore169/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/rudrarathore169/leetcode/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rudrarathore169/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/rudrarathore169/leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rudrarathore169/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/rudrarathore169/leetcode/tree/master/1510-stone-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/rudrarathore169/leetcode/tree/master/3310-remove-methods-from-project) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rudrarathore169/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rudrarathore169/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
