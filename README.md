@@ -8,6 +8,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rudrarathore169/leetcode/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/rudrarathore169/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudrarathore169/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rudrarathore169/leetcode/tree/master/0877-stone-game) |
@@ -172,6 +173,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rudrarathore169/leetcode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/rudrarathore169/leetcode/tree/master/1260-shift-2d-grid) |
 | [2058-concatenation-of-array](https://github.com/rudrarathore169/leetcode/tree/master/2058-concatenation-of-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rudrarathore169/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -234,6 +236,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rudrarathore169/leetcode/tree/master/0258-add-digits) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rudrarathore169/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rudrarathore169/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rudrarathore169/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
