@@ -112,6 +112,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rudrarathore169/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rudrarathore169/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rudrarathore169/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rudrarathore169/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rudrarathore169/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rudrarathore169/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rudrarathore169/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -123,6 +124,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/rudrarathore169/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rudrarathore169/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rudrarathore169/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rudrarathore169/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/rudrarathore169/leetcode/tree/master/3396-valid-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rudrarathore169/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rudrarathore169/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -296,4 +298,5 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rudrarathore169/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rudrarathore169/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
