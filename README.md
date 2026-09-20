@@ -129,6 +129,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rudrarathore169/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rudrarathore169/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/rudrarathore169/leetcode/tree/master/3396-valid-word) |
+| [3498-reverse-degree-of-a-string](https://github.com/rudrarathore169/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rudrarathore169/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rudrarathore169/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rudrarathore169/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -183,6 +184,7 @@
 | [0258-add-digits](https://github.com/rudrarathore169/leetcode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/rudrarathore169/leetcode/tree/master/1260-shift-2d-grid) |
 | [2058-concatenation-of-array](https://github.com/rudrarathore169/leetcode/tree/master/2058-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/rudrarathore169/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rudrarathore169/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rudrarathore169/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
