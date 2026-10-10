@@ -39,6 +39,7 @@
 | [0053-maximum-subarray](https://github.com/rudrarathore169/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/rudrarathore169/leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/rudrarathore169/leetcode/tree/master/0135-candy) |
+| [0198-house-robber](https://github.com/rudrarathore169/leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/rudrarathore169/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/rudrarathore169/leetcode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/rudrarathore169/leetcode/tree/master/0486-predict-the-winner) |
@@ -78,6 +79,7 @@
 | [0053-maximum-subarray](https://github.com/rudrarathore169/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rudrarathore169/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rudrarathore169/leetcode/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/rudrarathore169/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/rudrarathore169/leetcode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/rudrarathore169/leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/rudrarathore169/leetcode/tree/master/0542-01-matrix) |
