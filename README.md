@@ -8,6 +8,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rudrarathore169/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/rudrarathore169/leetcode/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/rudrarathore169/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudrarathore169/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rudrarathore169/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/rudrarathore169/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/rudrarathore169/leetcode/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/rudrarathore169/leetcode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/rudrarathore169/leetcode/tree/master/0486-predict-the-winner) |
@@ -304,4 +306,8 @@
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rudrarathore169/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rudrarathore169/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rudrarathore169/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
