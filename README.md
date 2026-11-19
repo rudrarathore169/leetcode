@@ -61,6 +61,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rudrarathore169/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/rudrarathore169/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rudrarathore169/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rudrarathore169/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rudrarathore169/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rudrarathore169/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rudrarathore169/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0135-candy](https://github.com/rudrarathore169/leetcode/tree/master/0135-candy) |
 | [1975-maximum-matrix-sum](https://github.com/rudrarathore169/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rudrarathore169/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rudrarathore169/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rudrarathore169/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
@@ -235,6 +237,7 @@
 | [0242-valid-anagram](https://github.com/rudrarathore169/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudrarathore169/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/rudrarathore169/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rudrarathore169/leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rudrarathore169/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rudrarathore169/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rudrarathore169/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
